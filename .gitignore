@@ -1,0 +1,6 @@
+#El .gitingnore es este archivo, el cual se usa para decirle
+#a git que debe ignorar algunos archivos, ya sea por seguridad
+#porque no queremos subir algun archivo especifico o carpeta
+#o porque el tamaño de algunos archivos son muy pesados
+#asterisco significa todo tipo de archivos
+*.jpg
